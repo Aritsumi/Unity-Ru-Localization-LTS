@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root><TMlFilterConfig><RowFilterInt>0</RowFilterInt><TranslationFilterInt>0</TranslationFilterInt><HideReadOnly>False</HideReadOnly><HideNoCommented>False</HideNoCommented><ShowOnlySNDT>False</ShowOnlySNDT><ValidationErrorsFilter>False</ValidationErrorsFilter><ValidationWarnsFilter>False</ValidationWarnsFilter><FilteringColumn>1</FilteringColumn><HideNoCapsNative>False</HideNoCapsNative><HideNoFlagged>False</HideNoFlagged></TMlFilterConfig></root>

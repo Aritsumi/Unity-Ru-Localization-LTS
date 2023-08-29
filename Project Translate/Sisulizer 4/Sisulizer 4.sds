@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<desktop scan="1" scanned="20230828153126" lang="ru" pane="TLogPane" col="3" row="Raise and lower the terrain height.">
+  <language id="ru" autoime="0" autokeyboard="0"/>
+  <sheet>
+    <columns>
+      <item class="TFlagsColumn" width="47"/>
+      <item class="TPathColumn" width="250"/>
+      <item class="TTranslationStatusColumn" width="150"/>
+      <item class="TOriginalColumn" width="500"/>
+      <item class="TTranslationColumn" lang="ru" width="500"/>
+    </columns>
+  </sheet>
+  <path>
+    <item>All</item>
+    <item>*.po</item>
+    <item>ja.po</item>
+  </path>
+  <export format="efExcel">
+    <excel commentcolumns="[eiRowComment,eiDefectId]"/>
+  </export>
+</desktop>
